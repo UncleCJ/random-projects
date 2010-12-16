@@ -15,6 +15,9 @@
 # 
 # This is really my ugly hack, don't trust it. Also it 
 # over-writes the original picture
+#
+# Execute for example like:
+#   find . -iname "*.jpg" -exec picframe_scale.sh "{}" \;
 # 
 
 sInFilename=$1; echo "$sInFilename"
@@ -46,10 +49,3 @@ if [[ "$pxWidth" -gt "$pxMaxWidth" ]] || \
 else
 	echo "   Too small, won't resize"
 fi
-
-
-#IMG_4623
-#IMG_4824
-#IMG_5321
-#IMG_6018
-#P1010140
