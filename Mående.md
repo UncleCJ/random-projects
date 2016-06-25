@@ -1,14 +1,3 @@
-46-10-20 (70 år)
-Många år med älskade Lennart, uppvuxen i Pingstkyrkan och verksam i Gnosjö Missionskyrka.
-
-# Mammas mående
-
-Ja, "mammas demens", eller lite hennes förvirring och mående i stort...
-
-Hon är ju onekligen sjukligt förvirrad och hjälplös, och även om demens är namnet på symptomen, inte en sjukdom i sig som t.ex. Alzheimers (mamma är rädd för att hon är "åderförkalkad") så tycker jag det är olyckligt att vi pratar om det som en extern faktor. Vi vet inte än om det finns någon hittills okänd orsak till att hon mår så dåligt. Det sägs att utbrändhet och depression (och kanske hörselskada?) sätter fysiska spår i hjärnan och jag är väldigt intresserad av vad läkare har att säga efter vidare undersökning.
-
-Demenssjukdom eller inte, det är ett faktum att mamma mår väldigt dåligt och saknar verktyg för att må bättre. Det måste vara väldigt slitsamt att höra så dåligt som hon gör, anstränga sig och dessutom klandra sig själv hela tiden när det blir fel. Att hon är irrationell och bekymrar sig om trams är ju inget nytt, skillnaden är att nu finns inte pappa att hålla henne jordad. Dessutom är hon förstås sliten och känner sorg efter pappas sjukdom och bortgång.
-
 Jag har sagt det tidigare, men jag tycker inte mamma beter sig värst märkligt. Det är små saker som blir helt knasiga, övriga följer ett par, begripliga mönster som vi kan jobba på att vända. Utöver det tycker jag hon "är med" så mycket man kan förvänta sig, men så har jag också nyanserat min bild av vad man kan förvänta sig av människor.
 
 Några mönster mamma uppvisar:
@@ -23,14 +12,5 @@ Några mönster mamma uppvisar:
 
 Så ja, det är vad jag iakttagit... Sex punkter, det kunde vara mer :-D Är hon dessutom demenssjuk riskerar alla de här punkterna förvärras ytterligare, och då är det läge att göra nya ställningstaganden. Men som sagt, oavsett det, åtminstone om de inte dramatiskt förvärras, så tror jag det är viktigt att vi gör vårt bästa för att förbättra hennes situation. För hon behöver inte vara så ledsen, förvirrad och tvivla på sig själv som hon gör, även om hon kommer tillbringa sina sista år som "åderförkalkad". Våra sinnen är mer plastiska än vi oftast tror - jag tänker på livet som en krokig väg - man ser sällan målet och det känns övermäktigt, men fortsätter man bara köra åt rätt håll så kommer man runt nästa krök och ser lite längre. Såna förbättringar kan också dyka upp snabbare och mer överraskande än man tänkt sig när man sitter i skiten. Jag har sagt det förr att det inte är min avsikt att underskatta varken utmaningarna eller vilken börda det är för er som bor närmre, men jag tror och hoppas att mamma är för ung och livsglad innerst inne för ålderdomshemmet. Vad tror ni?
 
-Kramar
-lillebror
 
--- 
-
-Carl-Johan Sveningsson    cj.sveningsson@gmail.com    +46 734 481314
-
-My nerdy blog -    http://unclecj.blogspot.com
-My micro-life -     http://twitter.com/unclecj
-My social life - http://facebook.com/unclecj
-My professional page -    http://www.linkedin.com/in/carljohan
+[My professional page](http://www.linkedin.com/in/carljohan)
